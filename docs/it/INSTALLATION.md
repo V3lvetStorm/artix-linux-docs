@@ -16,7 +16,7 @@ Questo è molto importante per chi crede che un sistema di init debba essere sem
 
 ## Scaricamento della Live ISO e preparazione USB
 
-Vai su artixlinux.org e scarica la ISO `artixlinux-base`.
+Vai sulla [pagina download di Artix Linux](https://artixlinux.org/download.php) e scarica la ISO stabile `artixlinux-base-{tuo init di preferenza}-{YYYYMMDD}-{architettura del tuo computer}.iso`.
 
 Scrivi la ISO appena scaricata su un supporto (USB/CD/DVD):
 
@@ -775,4 +775,3 @@ Triggera il refresh manuale:
 ```
 $ kbuildsycoca5
 ```
-
