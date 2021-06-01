@@ -1,0 +1,3 @@
+- Translate the installation guide from Italian to English
+- Add more in-depth guides for Suite66 and other inits which I do not know about
+- Add more DEs' installation steps
