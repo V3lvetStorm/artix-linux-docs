@@ -43,7 +43,7 @@ $ ping 1.1.1.1
 
 # Installazione
 
-## Partizionamento del disco creazione del file system
+## Partizionamento del disco e creazione del file system
 
 Bisogna capire qual è il disco su cui vuoi installare Artix. `blkid` è una utility che lista i dischi disponibili, e usualmente una sua invocazione è abbastanza per capire su che disco devi lavorare.
 
